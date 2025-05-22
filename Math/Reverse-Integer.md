@@ -12,7 +12,7 @@
 
 ---
 
-## Code 1 `python`
+### Code 1 `python`
 
 ```python
 class Solution:
@@ -38,7 +38,7 @@ class Solution:
 
 *note* : use absolute value, then add sign
 
-## Code 2 `python`
+### Code 2 `python`
 
 ```python
 class Solution:
