@@ -1,7 +1,5 @@
 # Pattern-1
 
-### Problem
-
 Print the following pattern for given `n` :-
 
 ```
@@ -17,7 +15,7 @@ Here `n=4`
 
 ---
 
-### Code `python`
+## Code `python`
 
 ```python
 n = int(input("Enter n: "))
@@ -34,7 +32,7 @@ for i in range(size):
 ```
 ---
 
-### Approach
+## Approach
 
 - just assume the pattern we need to print is this :-
   ```
