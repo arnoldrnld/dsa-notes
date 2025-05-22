@@ -2,7 +2,7 @@
 
 ### Problem
 
->Print the following pattern for given `n` :-
+Print the following pattern for given `n` :-
 
 ```
 4 4 4 4 4 4 4 
@@ -13,7 +13,7 @@
 4 3 3 3 3 3 4 
 4 4 4 4 4 4 4 
 ```
->Here `n=4`
+Here `n=4`
 
 ---
 
