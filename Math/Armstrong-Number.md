@@ -31,3 +31,4 @@ if n == sum:
 else:
   print(False)
 ```
+*note: this code is for checking 3 digit armstrong number.*
