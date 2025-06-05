@@ -8,3 +8,4 @@ These are the questions that helped me **learn new things** , **write optimal so
 - [Pattern 1](Pattern/Pattern-1.md)
 - [Reverse Integer](Math/Reverse-Integer.md)
 - [Count Digits](Math/Count-Digits.md)
+- [Armstrong Number](Math/Armstrong-Number.md)
