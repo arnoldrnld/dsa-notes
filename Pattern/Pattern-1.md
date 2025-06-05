@@ -1,4 +1,4 @@
-# Pattern-1
+# [Pattern-1]()
 
 Print the following pattern for given `n` :-
 
@@ -13,7 +13,6 @@ Print the following pattern for given `n` :-
 ```
 Here `n=4`
 
----
 
 ## Approach
 
@@ -31,9 +30,8 @@ Here `n=4`
   - we can understand that the value of each element is the min distance (top, bottom, left , right) to its borders
 - now its easy to print the result pattern with simple subtraction
 
-### Code `python`
-
 ```python
+#python
 n = int(input("Enter n: "))
 size = 2*n-1
 for i in range(size):
@@ -46,4 +44,3 @@ for i in range(size):
         print(n - min(dist),end=" ")
     print()
 ```
----

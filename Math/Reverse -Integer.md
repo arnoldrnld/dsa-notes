@@ -2,7 +2,7 @@
 
 *leetcode : https://leetcode.com/problems/reverse-integer/description/*
 
-## Approach 1
+## Approach 1 - basic maths
 - initialize result
 - `x % 10` gives last digit of number
 - add to result
@@ -10,11 +10,8 @@
 - `x // 10` removes last digit
 - iterate until number <= 0
 
----
-
-### Code 1 `python`
-
 ```python
+#python
 class Solution:
     def reverse(self, x: int) -> int:
         res = 0
@@ -29,18 +26,16 @@ class Solution:
         else:
             return sign * res
 ```
----
 
-## Approach 2
+## Approach 2 - slicing
 - convert number to string
 - use slicing to reverse `[::-1]`
 - convert back to integer
 
 *note* : use absolute value, then add sign
 
-### Code 2 `python`
-
 ```python
+#python
 class Solution:
     def reverse(self, x: int) -> int:
         res = 0
