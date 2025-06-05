@@ -9,3 +9,4 @@ These are the questions that helped me **learn new things** , **write optimal so
 - [Reverse Integer](Math/Reverse-Integer.md)
 - [Count Digits](Math/Count-Digits.md)
 - [Armstrong Number](Math/Armstrong-Number.md)
+- [Print Divisors](Math/Print-Divisors.md)
