@@ -8,6 +8,8 @@ Count the number of digits in given `n`
 - add 1 `4.0913`
 - convert to integer to remove decimal part `4`
 
+*note: log10(n) will cause math error if `n <= 0`*
+
 
 ```python
 #python
