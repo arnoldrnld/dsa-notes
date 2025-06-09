@@ -41,4 +41,6 @@ for i in range(1, int(math.sqrt(n)) + 1):
     
 print(*sorted(divisors))
 ```
-*note: import math module to use sqrt() function, else use n**0.5*
+*note*
+- import math module to use sqrt() function, else use `n**0.5` 
+- u can use this code to check for `prime number`. just look if the number have only 2 divisors
